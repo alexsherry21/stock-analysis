@@ -1,2 +1,2 @@
 # stock-analysis
-VBA lessons for Module 2
+ Stock Analysis for Module 2
